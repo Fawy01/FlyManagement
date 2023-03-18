@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/linea.jfif</file>
+        <file>images/bar.jfif</file>
+        <file>images/pie.jfif</file>
+        <file>images/save.jfif</file>
+        <file>images/viaggio.jfif</file>
+        <file>images/delete.jfif</file>
+        <file>images/reload.jfif</file>
+        <file>images/newFile.jfif</file>
+        <file>images/home.jfif</file>
+        <file>images/Import.jfif</file>
+        <file>images/truck.jfif</file>
+    </qresource>
+</RCC>
